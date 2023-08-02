@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**sntzera/sntzera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! eu sou o Gustavo Henrique! 🫶
 
-Here are some ideas to get you started:
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sntzeraa)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sntzeraa/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-santana-de-oliveira-b79a171b2/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![sntzera's GitHub stats](https://github-readme-stats.vercel.app/api?username=sntzera&show_icons=true&theme=synthwave)
+
+## Tecnologias que eu uso
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    <img align="center" alt="kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">    
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div><br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sntzera&layout=compact)
+
+### Setup 
+<div style="display: inline_block">
+    <img align="center" alt="cpuI310105F" src="https://img.shields.io/badge/Intel-Core_i3_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+    <img align="center" alt="gpuGTX1050" src="https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+</div>
+
+### none but ourselves can free our minds
