@@ -20,11 +20,3 @@
 </div><br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sntzera&layout=compact)
-
-### Setup 
-<div style="display: inline_block">
-    <img align="center" alt="cpuI310105F" src="https://img.shields.io/badge/Intel-Core_i3_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
-    <img align="center" alt="gpuGTX1050" src="https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-</div>
-
-### none but ourselves can free our minds
