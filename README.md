@@ -5,7 +5,7 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sntzeraa/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-santana-de-oliveira-b79a171b2/)
 
-![sntzera's GitHub stats](https://github-readme-stats.vercel.app/api?username=sntzera&show_icons=true&theme=synthwave)
+![sntzera's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-santanna&show_icons=true&theme=synthwave)
 
 ## Tecnologias que eu uso
 
@@ -19,4 +19,4 @@
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sntzera&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-santanna&layout=compact)
