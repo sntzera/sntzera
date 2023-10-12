@@ -2,7 +2,7 @@
 ### Olá! eu sou o Gustavo Henrique!
 
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sntzeraa)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sntzeraa/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/g.santnna/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-santana-de-oliveira-b79a171b2/)
 
 ![sntzera's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-santanna&show_icons=true&theme=synthwave)
